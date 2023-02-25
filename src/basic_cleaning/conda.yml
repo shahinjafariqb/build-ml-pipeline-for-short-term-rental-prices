@@ -6,4 +6,4 @@ dependencies:
   - python==3.9.7
   - pip=20.3.3
   - pip:
-      - wandb==0.10.31
+      - wandb==0.12.17
